@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4ad0b42d-256d-4a05-9b7d-6bb6b1ccdacb/6c14d183-bd75-451c-be15-ac3d5ce09739.png" /></a>
+<!--START_SECTION:waka-->[\s\S]+<!--END_SECTION:waka-->
